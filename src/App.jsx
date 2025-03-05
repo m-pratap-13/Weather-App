@@ -1,16 +1,14 @@
-import './App.css'
+import "./App.css";
 import WeatherApp from "./Componenets/WeatherApp";
-import Navbar from './Navbar';
+import Navbar from "./Navbar";
 
 function App() {
-
   return (
     <>
- 
-   <Navbar/>
-    <WeatherApp/>
+      <Navbar />
+      <WeatherApp />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
