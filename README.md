@@ -1,15 +1,23 @@
 # Weather App
+
 <br>
     
 <h3>Description:</h3>
-<p>A simple weather application built with React. It fetches real-time weather data based on user input and displays temperature, humidity, and weather conditions. The app utilizes React hooks (<code>useState</code>), API integration, and conditional rendering.</p>
+<p>A simple weather application built with **ReactJs** & **OpenWeather API**. It fetches real-time weather data based on user input and displays temperature, humidity, and weather conditions. The app utilizes React hooks (<code>useState</code>,<code>useEffect</code>), API integration, and conditional rendering.</p>
+
+<h3>🛠 Tech Stack</h3>
+<ul>
+        <li>**Frontend**: React.js, Tailwind CSS</li>
+        <li>**API**: OpenWeather API </li>
+        <li>**Deployment**: Netlify</li>
+</ul>
     
-<h3>Features:</h3>
+<h3>🚀 Features:</h3>
     <ul>
-        <li>Search for weather by city</li>
-        <li>Real-time temperature, humidity, and conditions</li>
-        <li>Dynamic UI updates based on API response</li>
-        <li>Error handling for invalid locations</li>
+        <li>**Search** for weather in any city </li>
+        <li>**Current Temperature** and real feel </li>
+        <li>**Hourly & 7-day Forecasts**  </li>
+        <li>**Wind Speed, Humidity, and Pressure** details </li>
+        <li>**Sunrise & Sunset** timings </li>
         <li>Responsive design</li>
     </ul>
-
