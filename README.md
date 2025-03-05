@@ -27,5 +27,4 @@
         <li>Error Handling for failed API requests</li>
         <li>Install React Router Dom for Navbar Link</li>
         <li>Add Search Recommendation,Fahrenheit</li>
-         <li></li>
     </ul>
