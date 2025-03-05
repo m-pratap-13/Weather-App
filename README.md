@@ -7,17 +7,25 @@
 
 <h3>🛠 Tech Stack</h3>
 <ul>
-        <li>**Frontend**: React.js, Tailwind CSS</li>
-        <li>**API**: OpenWeather API </li>
-        <li>**Deployment**: Netlify</li>
+        <li>Frontend: React.js, Tailwind CSS</li>
+        <li>API: OpenWeather API </li>
+        <li>Deployment: Netlify</li>
 </ul>
     
 <h3>🚀 Features:</h3>
     <ul>
-        <li>**Search** for weather in any city </li>
-        <li>**Current Temperature** and real feel </li>
-        <li>**Hourly & 7-day Forecasts**  </li>
-        <li>**Wind Speed, Humidity, and Pressure** details </li>
-        <li>**Sunrise & Sunset** timings </li>
+        <li>Search for weather in any city </li>
+        <li>Current Temperature and real feel </li>
+        <li>Hourly & 5-day Forecasts  </li>
+        <li>Wind Speed, Humidity, and Pressure details </li>
+        <li>Sunrise & Sunset timings </li>
         <li>Responsive design</li>
+    </ul>
+
+<h3>🌟 Enhancements:</h3>
+    <ul>
+        <li>Error Handling for failed API requests</li>
+        <li>Install React Router Dom for Navbar Link</li>
+        <li>Add Search Recommendation,Fahrenheit</li>
+         <li></li>
     </ul>
