@@ -1,12 +1,12 @@
 import './App.css'
-import Header from "./Componenets/Header";
 import WeatherApp from "./Componenets/WeatherApp";
+import Navbar from './Navbar';
 
 function App() {
 
   return (
     <>
-    <Header />
+   <Navbar/>
     <WeatherApp/>
     </>
   )
